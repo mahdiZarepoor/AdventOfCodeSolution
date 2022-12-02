@@ -14,3 +14,8 @@ while True:
         continue
 
     tmp += int(line)
+
+
+# useful tips :
+# f.readline() == "" means EOF in python
+# f.readline() == "\n" is the specifier for different elves in this problems
