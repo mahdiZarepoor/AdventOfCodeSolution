@@ -1,5 +1,3 @@
-import time
-
 # it is guaranteed that each line of input consists of two letter
 # first one is either A B or C
 # second one is either X Y or Z
