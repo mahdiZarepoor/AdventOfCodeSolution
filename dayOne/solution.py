@@ -5,7 +5,7 @@ tmp = 0
 while True:
     line = f.readline()
     if line == "":
-        print("the anser is " + str(greatest))
+        print("the answer is " + str(greatest))
         break
 
     if line == "\n":
